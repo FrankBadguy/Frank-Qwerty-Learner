@@ -1,0 +1,26 @@
+# dependencies
+node_modules/
+
+# build output
+dist/
+out/
+stats.html
+tsconfig.node.tsbuildinfo
+
+# local runtime files
+logs/
+*.log
+
+# local tool dirs
+.zcode/
+.v2c/
+.video_agent/
+.mimosa/
+
+# OS files
+.DS_Store
+
+# environment / secrets
+.env
+.env.*
+!.env.example

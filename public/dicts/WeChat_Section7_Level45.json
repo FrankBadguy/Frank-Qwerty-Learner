@@ -1,0 +1,158 @@
+[
+  {
+    "name": "felicitous",
+    "trans": ["适当的，得体的（话语等）"],
+    "usphone": "fəˈlɪsɪtəs",
+    "ukphone": "fəˈlɪsɪtəs",
+    "example": [
+      {
+        "en": "Her felicitous remarks made everyone at the dinner feel at ease.",
+        "zh": "她得体的言谈让晚宴上的每个人都感到自在。"
+      }
+    ]
+  },
+  {
+    "name": "prolific",
+    "trans": ["多产的；多子嗣的；丰富的"],
+    "usphone": "prəˈlɪfɪk",
+    "ukphone": "prəˈlɪfɪk",
+    "example": [
+      {
+        "en": "Shakespeare was one of the most prolific writers in English literature.",
+        "zh": "莎士比亚是英国文学史上最多产的作家之一。"
+      }
+    ]
+  },
+  {
+    "name": "enduring",
+    "trans": ["持久的；耐久的"],
+    "usphone": "ɪnˈdʊrɪŋ",
+    "ukphone": "ɪnˈdjʊərɪŋ",
+    "example": [
+      {
+        "en": "The novel has left an enduring impression on generations of readers.",
+        "zh": "这部小说给一代又一代读者留下了持久的印象。"
+      }
+    ]
+  },
+  {
+    "name": "bolster",
+    "trans": ["支持，支撑；垫子"],
+    "usphone": "ˈboʊlstər",
+    "ukphone": "ˈbəʊlstə",
+    "example": [
+      {
+        "en": "The new evidence helped bolster her argument in the debate.",
+        "zh": "新的证据帮助她在辩论中支持了自己的论点。"
+      }
+    ]
+  },
+  {
+    "name": "corroborate",
+    "trans": ["证实；支持；强化"],
+    "usphone": "kəˈrɑːbəreɪt",
+    "ukphone": "kəˈrɒbəreɪt",
+    "example": [
+      {
+        "en": "The witness's account corroborates what the police already suspected.",
+        "zh": "目击者的陈述证实了警方此前的怀疑。"
+      }
+    ]
+  },
+  {
+    "name": "outstrip",
+    "trans": ["超过；胜过；比…跑得快"],
+    "usphone": "ˌaʊtˈstrɪp",
+    "ukphone": "ˌaʊtˈstrɪp",
+    "example": [
+      {
+        "en": "Demand for electric cars is outstripping supply this year.",
+        "zh": "今年电动汽车的需求正超过供应。"
+      }
+    ]
+  },
+  {
+    "name": "marvel",
+    "trans": ["令人惊奇的事物；惊异于"],
+    "usphone": "ˈmɑːrvl",
+    "ukphone": "ˈmɑːvl",
+    "example": [
+      {
+        "en": "The Great Wall is one of the wonders that travelers marvel at.",
+        "zh": "长城是游客们惊叹的世界奇迹之一。"
+      }
+    ]
+  },
+  {
+    "name": "meticulous",
+    "trans": ["小心翼翼的；一丝不苟的"],
+    "usphone": "məˈtɪkjələs",
+    "ukphone": "məˈtɪkjələs",
+    "example": [
+      {
+        "en": "She kept meticulous records of every expense during the trip.",
+        "zh": "她一丝不苟地记录了旅途中的每一笔开销。"
+      }
+    ]
+  },
+  {
+    "name": "edifying",
+    "trans": ["启迪的；起教化作用的"],
+    "usphone": "ˈedɪfaɪɪŋ",
+    "ukphone": "ˈedɪfaɪɪŋ",
+    "example": [
+      {
+        "en": "Reading this book was an edifying experience for the young students.",
+        "zh": "读这本书对年轻学生来说是一次启迪性的经历。"
+      }
+    ]
+  },
+  {
+    "name": "humor",
+    "trans": ["幽默"],
+    "usphone": "ˈhjuːmər",
+    "ukphone": "ˈhjuːmə",
+    "example": [
+      {
+        "en": "His sense of humor always lightens the mood in the office.",
+        "zh": "他的幽默感总能缓和办公室的气氛。"
+      }
+    ]
+  },
+  {
+    "name": "erudition",
+    "trans": ["博学，学识"],
+    "usphone": "ˌeruˈdɪʃn",
+    "ukphone": "ˌeruˈdɪʃn",
+    "example": [
+      {
+        "en": "The professor's erudition impressed everyone in the seminar.",
+        "zh": "教授的博学给研讨会上的每个人都留下了深刻印象。"
+      }
+    ]
+  },
+  {
+    "name": "discreet",
+    "trans": ["谨慎的；不易察觉的"],
+    "usphone": "dɪˈskriːt",
+    "ukphone": "dɪˈskriːt",
+    "example": [
+      {
+        "en": "Please be discreet about this matter and do not mention it to others.",
+        "zh": "这件事请你谨慎处理，不要对别人提起。"
+      }
+    ]
+  },
+  {
+    "name": "tactful",
+    "trans": ["得体的；机智的；老练的"],
+    "usphone": "ˈtæktfl",
+    "ukphone": "ˈtæktfl",
+    "example": [
+      {
+        "en": "She gave a tactful answer that avoided hurting anyone's feelings.",
+        "zh": "她给出了一个得体的回答，避免伤害任何人的感情。"
+      }
+    ]
+  }
+]
